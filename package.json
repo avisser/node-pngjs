@@ -11,5 +11,11 @@
     "engines": {
         "node": "0.8.x"
     },
-    "main": "./lib/png.js"
+    "main": "./lib/png.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "devDependencies": {
+      "mocha": "~1.12.1"
+    }
 }
