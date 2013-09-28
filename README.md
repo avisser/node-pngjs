@@ -1,5 +1,6 @@
 About
 ========
+[![Build Status](https://travis-ci.org/avisser/node-pngjs.png?branch=feature/itxt)](https://travis-ci.org/avisser/node-pngjs)
 Simple PNG encoder/decoder for Node.js with no native dependencies.
 
 Installation
